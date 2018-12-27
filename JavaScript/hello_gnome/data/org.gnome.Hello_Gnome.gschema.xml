@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="hello_gnome">
+	<schema id="org.gnome.Hello_Gnome" path="/org/gnome/Hello_Gnome/">
+	</schema>
+</schemalist>

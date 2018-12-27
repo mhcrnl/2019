@@ -1,0 +1,5 @@
+data/org.gnome.Hello_Gnome.desktop.in
+data/org.gnome.Hello_Gnome.appdata.xml.in
+data/org.gnome.Hello_Gnome.gschema.xml
+src/window.uisrc/main.js
+src/window.js
