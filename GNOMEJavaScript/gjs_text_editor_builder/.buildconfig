@@ -1,0 +1,9 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/mhcrnl/.cache/gnome-builder/install/gjs_text_editor_builder/host
+app-id=
+postbuild=
+prebuild=

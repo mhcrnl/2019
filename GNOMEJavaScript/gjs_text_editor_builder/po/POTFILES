@@ -1,0 +1,5 @@
+data/org.gnome.Gjs_Text_Editor_Builder.desktop.in
+data/org.gnome.Gjs_Text_Editor_Builder.appdata.xml.in
+data/org.gnome.Gjs_Text_Editor_Builder.gschema.xml
+src/window.uisrc/main.js
+src/window.js
