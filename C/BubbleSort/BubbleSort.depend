@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1547049787 source:/home/mhcrnl/Desktop/2019/C/BubbleSort/main.c
+	<stdio.h>
+	<stdlib.h>
+
